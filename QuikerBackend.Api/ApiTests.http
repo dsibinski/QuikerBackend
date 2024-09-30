@@ -1,0 +1,4 @@
+@ApiHostAddress = https://localhost:7121
+
+GET {{ApiHostAddress}}/Tasks/All
+Accept: application/json
